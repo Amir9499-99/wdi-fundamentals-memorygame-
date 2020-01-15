@@ -27,11 +27,11 @@ a{
 	letter-spacing: 0.06em;
 	font-weight: 600;
 	font-size: 18px;
-	text-decoration: none;	
+	text-decoration: none;
 	color: #FFFFFF;
 	margin: 0 20px;
 	border-bottom: 2px solid transparent;
-}	
+}
 
 
 h2{
@@ -120,8 +120,3 @@ a:hover{
 	border-bottom: 2px solid transparent;
 	border-color: white;
 }
-
-
-
-
-
