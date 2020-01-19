@@ -120,3 +120,13 @@ a:hover{
 	border-bottom: 2px solid transparent;
 	border-color: white;
 }
+
+button{
+font-size: 15px;
+font-family: "Droid Serif", serif;
+color: white;
+padding: 15px 25px;
+background-color: #00A6B3;
+cursor: pointer;
+outline: none;
+}
